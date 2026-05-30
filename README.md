@@ -1,7 +1,9 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Srishti+%F0%9F%91%8B;Backend+Engineer+%7C+Java+%26+Spring+Boot;Building+clean%2C+scalable+APIs;Learning+something+new+every+day" alt="Typing SVG" />
+# Srishti Sudan
+### Backend Engineer · Java & Spring Boot · Building in public
 
+</div>
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/srishti365)
