@@ -10,17 +10,15 @@
 
 </div>
 
----
+## about me
 
-```java
-public class Srishti extends BackendEngineer {
-    String  role      = "Software Engineer @ Investis Digital";
-    String  location  = "Vadodara, Gujarat, India 🇮🇳";
-    String  exp       = "2+ years — Java, Spring Boot, distributed systems";
-    boolean openTo    = REMOTE_ROLES && STARTUP_OPPORTUNITIES;
-    String  funFact   = "Gold Medallist in MCA 🥇";
-}
-```
+- 🏢 Software Engineer @ Investis Digital, Vadodara
+- ☕ 2+ years building backend systems with Java & Spring Boot
+- ☁️ Migrated production systems from GCP to AWS
+- 🥇 Gold Medallist in MCA
+- 🚀 Currently building side projects to level up
+- 🌱 Learning Kafka, Kubernetes and AI Engineering
+- 💼 Open to remote roles and startup opportunities
 
 ---
 
