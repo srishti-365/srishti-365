@@ -1,111 +1,92 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Srishti%20Sudan&fontSize=50&fontColor=e94560&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Java%20%26%20Spring%20Boot%20%7C%20Building%20in%20public&descAlignY=55&descSize=16&descColor=a8b2d8"/>
-</div>
 
-<div align="center">
-  <a href="https://linkedin.com/in/srishti365">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:srishtisudan36@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=srishti-365&style=for-the-badge&color=e94560&label=PROFILE+VIEWS"/>
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Srishti+%F0%9F%91%8B;Backend+Engineer+%7C+Java+%26+Spring+Boot;Building+clean%2C+scalable+APIs;Learning+something+new+every+day" alt="Typing SVG" />
 
 <br/>
 
-<img align="right" alt="coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/srishti365)
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:srishtisudan36@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=srishti-365&style=flat-square&color=6366f1&label=profile+views)](https://github.com/srishti-365)
 
-### 👩‍💻 About Me
+</div>
+
+---
 
 ```java
 public class Srishti extends BackendEngineer {
-
-    String role       = "Software Engineer @ Investis Digital";
-    String location   = "Vadodara, Gujarat 🇮🇳";
-    String experience = "2+ years with Java & Spring Boot";
-
-    String[] building = {
-        "Expense Tracker API",
-        "URL Summarizer"
-    };
-
-    String[] learning = {
-        "Kafka", "Kubernetes",
-        "AI Engineering"
-    };
-
-    String funFact = "Gold Medallist in MCA 🥇";
+    String  role      = "Software Engineer @ Investis Digital";
+    String  location  = "Vadodara, Gujarat, India 🇮🇳";
+    String  exp       = "2+ years — Java, Spring Boot, distributed systems";
+    boolean openTo    = REMOTE_ROLES && STARTUP_OPPORTUNITIES;
+    String  funFact   = "Gold Medallist in MCA 🥇";
 }
 ```
 
-<br clear="right"/>
-
 ---
 
-## 🛠️ Tech Stack
+## tech
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/Java-f89820?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## projects
 
 <div align="center">
 
-| 🔗 Project | 📝 Description | ⚙️ Stack | 🚦 Status |
-|-----------|---------------|---------|---------|
-| [URL Summarizer](https://github.com/srishti-365/url-summarizer) | AI-powered URL summarizer using Groq LLM | Spring Boot · Groq · Docker | ✅ Complete |
-| [Expense Tracker API](https://github.com/srishti-365/expense-tracker) | Multi-user expense tracking with JWT auth | Spring Boot · PostgreSQL · JWT | 🚧 In Progress |
+| project | what it does | stack | status |
+|---------|-------------|-------|--------|
+| [url-summarizer](https://github.com/srishti-365/url-summarizer) | fetches any URL and returns an AI summary via Groq LLM | Spring Boot · Groq · Docker | ✅ done |
+| [expense-tracker](https://github.com/srishti-365/expense-tracker) | multi-user expense API with JWT auth and monthly summaries | Spring Boot · PostgreSQL · JWT | 🚧 building |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=srishti-365&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=e94560&icon_color=e94560"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srishti-365&layout=compact&theme=tokyonight&hide_border=true&title_color=e94560"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=srishti-365&show_icons=true&theme=default&hide_border=true&title_color=6366f1&icon_color=6366f1&text_color=444&bg_color=ffffff"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srishti-365&layout=compact&theme=default&hide_border=true&title_color=6366f1&text_color=444&bg_color=ffffff"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srishti-365&theme=tokyonight&hide_border=true&ring=e94560&fire=e94560&currStreakLabel=e94560"/>
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=srishti-365&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srishti-365&theme=default&hide_border=true&ring=6366f1&fire=6366f1&currStreakLabel=6366f1"/>
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## trophies
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srishti-365&theme=tokyo-night&hide_border=true&line=e94560&point=e94560"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=srishti-365&theme=flat&no-frame=true&row=1&column=7&margin-w=8&title_color=6366f1"/>
+</div>
+
+---
+
+## graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srishti-365&theme=minimal&hide_border=true&line=6366f1&point=6366f1&color=444"/>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=100&section=footer"/>
+  <sub>made with focus, not magic ✦</sub>
 </div>
